@@ -1,0 +1,16 @@
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching_2.Form1.resources
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.csproj.GenerateResource.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.AssemblyInfoInputs.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.AssemblyInfo.cs
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\bin\Debug\net7.0-windows\PairMatching 2.exe
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\bin\Debug\net7.0-windows\PairMatching 2.deps.json
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\bin\Debug\net7.0-windows\PairMatching 2.runtimeconfig.json
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\bin\Debug\net7.0-windows\PairMatching 2.dll
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\bin\Debug\net7.0-windows\PairMatching 2.pdb
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.dll
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\refint\PairMatching 2.dll
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.pdb
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\PairMatching 2.genruntimeconfig.cache
+C:\Users\Zxshx\OneDrive\Desktop\C# 2\PairMatching 2\PairMatching 2\obj\Debug\net7.0-windows\ref\PairMatching 2.dll
